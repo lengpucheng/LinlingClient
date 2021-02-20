@@ -10,7 +10,7 @@
 
     <groupId>cn.hll520.linclient</groupId>
     <artifactId>LinlingClient</artifactId>
-    <version>1.0.5-bate</version>
+    <version>1.0.6</version>
     <name>linlingClient</name>
     <description>LinlingClient is common interface of sort of application,include Bilibili</description>
     <url>https://github.com/lengpucheng/BilibiliClient</url>
